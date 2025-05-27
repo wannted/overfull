@@ -1,0 +1,29 @@
+[
+  {
+    "id": "u1",
+    "login": "serveur1",
+    "role": "waiter",
+    "tableRange": {
+      "lowerBound": 60,
+      "upperBound": 80
+    }
+  },
+  {
+    "id": "u2",
+    "login": "serveur2",
+    "role": "waiter",
+    "tableRange": {
+      "lowerBound": 121,
+      "upperBound": 140
+    }
+  },
+  {
+    "id": "manager",
+    "login": "MANAGER",
+    "role": "manager",
+    "tableRange": {
+      "lowerBound": 1,
+      "upperBound": 999
+    }
+  }
+]
